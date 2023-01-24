@@ -40,4 +40,3 @@ const Chat = () => {
 };
 
 export default Chat;
->>>>>>> 93b698d982d1710b8cc92e612a7ec83741c72ecb
